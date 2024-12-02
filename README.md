@@ -31,3 +31,8 @@ Tools: Git, VSCode, Postman
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeQuerorHaki_M_Gamale&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
