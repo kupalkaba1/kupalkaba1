@@ -1,5 +1,5 @@
 # 💫About Me :
-IHi there 👋, I'm TEOFREDO M. GAMALE JR!
+Hi there 👋, I'm TEOFREDO M. GAMALE JR!
 I'm a passionate Web Developer and Coding Enthusiast on a journey to master Full Stack Web Development. Currently, I'm diving deep into Vue.js,  Laravel, and TypeScript while continuously learning new technologies to create amazing web applications.
 
 🔭 Currently working on:
