@@ -1,20 +1,8 @@
-# 💫About Me :
-Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">, I'm TEOFREDO M. GAMALE JR!
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+Hi there, I'm TEOFREDO M. GAMALE JR!
 I'm a passionate Web Developer and Coding Enthusiast on a journey to master Full Stack Web Development.
 
-🔭 Currently learning on:
-Developing a full-stack Web application.
 
-💻 Languages and Tools I Use:
-Languages: JavaScript , TypeScript, HTML5, CSS3, Php 
-Libraries/Frameworks: Vue.js, Laravel, Tailwind CSS, Ant Design
-Databases: MySQL, MariaDB , PostgreSQL , SQLite 
-Tools: Git, VSCode, Postman
-
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
 <img style="width:1000px;height:500px;" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
@@ -26,6 +14,9 @@ Tools: Git, VSCode, Postman
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeQuerorHaki_M_Gamale&icon=2&color=0)](https://visitcount.itsvg.in)
