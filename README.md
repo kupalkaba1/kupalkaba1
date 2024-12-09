@@ -1,4 +1,5 @@
-Hi there, <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+<img style="width:1000px; height: 600px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Hi there,
 I'm TEOFREDO M. GAMALE JR!
 I'm a passionate Web Developer and Coding Enthusiast on a journey to master Full Stack Web Development.
 
