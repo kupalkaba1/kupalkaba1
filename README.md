@@ -3,7 +3,7 @@
 Hi there, <img style="width:50px; height:50px" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png">
 </span>
 I'm TEOFREDO M. GAMALE JR!
-I'm a passionate Web Developer and Coding Enthusiast on a journey to master Full Stack Web Development.
+A passionate Web Developer and Coding Enthusiast on a journey to master Full Stack Web Development.
 
 <img style="width:1000px;" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
