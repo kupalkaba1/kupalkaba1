@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="1000"; height="400" alt="Coding GIF">
 </p>
 
-<h1 align="center">Hi, I'm Teofredo M. Gamale Jr. 👋</h1>
+<h1 align="center">Hi, Everyone I'm Teofredo M. Gamale Jr. 👋</h1>
 <h3 align="center">A passionate and enthusiastic full-stack web developer, dedicated to crafting efficient and innovative web solutions.</h3>
 
 -----------------------------------
