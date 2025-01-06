@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, Everyone I'm Teofredo M. Gamale Jr. 👋</h1>
-<h3 align="center">A passionate and enthusiastic full-stack web developer, dedicated to crafting efficient and innovative web solutions.</h3>
+<h3 align="center">A passionate and enthusiastic Fullstack Web Developer, dedicated to crafting efficient and innovative web solutions.</h3>
 
 -----------------------------------
 
