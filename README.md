@@ -1,6 +1,6 @@
 <!-- Profile README for Teofredo M. Gamale Jr. -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="1000"; height="400" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1000"; height="400" alt="Coding GIF">
 </p>
 
 <h1 align="center">Hi, Everyone I'm Teofredo M. Gamale Jr. 👋</h1>
