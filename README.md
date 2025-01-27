@@ -1,6 +1,6 @@
 <!-- Profile README for Teofredo M. Gamale Jr. -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdndHIzaXJyaHd4OGduano4NDluajAxczV6YWZhNGhlbGpuOTY0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gtakVlnStZUbe/giphy.gif" width="1000"; height="400" alt="Coding GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVsZ2l5c2F3YTgybWZzOHBtM3U2ZXVmZzEyY2NnbnhxMWE1dHIzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" width="1200"; height="600" alt="Coding GIF">
 </p>
 
 <h1 align="center">Hi, Everyone 👋</h1>
