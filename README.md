@@ -3,7 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBxZWkxZTRyOGZzejlobHE2aTcxdDBoYWRzZHN3aXVpb205YnU1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="1000"; height="500" alt="Coding GIF">
 </p>
 
-<h1 align="center">Hello, Everyone 👋</h1>
+<h1 align="center">Hi, Everyone 👋</h1>
 <h1 align="center">I'm Teofredo M. Gamale Jr.👋</h1>
 <h3 align="center">A passionate and enthusiastic Fullstack Web Developer, dedicated to crafting efficient and innovative web solutions.</h3>
 
